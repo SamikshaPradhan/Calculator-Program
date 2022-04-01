@@ -1,10 +1,3 @@
-; Name: Samiksha Pradhan
-; Course: CS 340
-; Program: Calculator Pgm
-; Description: You will enter a simple equations (keyboard) and print out the equation followed by 
-;    an = sign and the answer to the equation.  For +  -  *  will be simple integer answers, 
-;     for / print quotient and remainder.  Print answers to a file.
-
 INCLUDE Irvine32.inc
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
